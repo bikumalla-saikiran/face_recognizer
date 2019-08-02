@@ -1,3 +1,5 @@
+ # author @ saikiran
+
 #creating database
 import cv2, sys, numpy, os
 haar_file = 'haarcascade_frontalface_default.xml'
